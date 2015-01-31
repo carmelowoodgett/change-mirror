@@ -1,0 +1,21 @@
+{
+  "name": "change-mirror",
+  "version": "0.0.1",
+  "description": "A simple node program to keep two directories in sync.",
+  "main": "change-mirror.js",
+  "dependencies": {
+    "wrench": "^1.5.8",
+    "fsmonitor": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "filesystem"
+  ],
+  "author": "Mel Woodgett <woodgettm@gmail.com>",
+  "license": "ISC"
+}
